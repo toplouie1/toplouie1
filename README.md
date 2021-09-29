@@ -1,4 +1,8 @@
  Hi there 👋
+ Full-Stack-Developer
+Love the craft of coding , 
+learning through experience for becoming  an
+exceptional coder.
 
 - 🔭 I’m currently working on Perfecting My Craft and creating a better world ...
 - 🌱 I’m currently in https://www.pursuit.org/ ...

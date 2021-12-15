@@ -3,8 +3,7 @@
 #Full-Stack-Developer
 
 Im very big on clean code and I 
-Love the craft of coding , 
-
+Love the craft of coding ,
 learning through experience for becoming  an
 exceptional coder.
 
@@ -17,7 +16,8 @@ exceptional coder.
 
 #My Projects
 
+- [Youtube-clone](https://youtube-clonana.netlify.app/)
 - [Calculator](https://nima-sherpa-calculator.netlify.app/)
 - [Weather](https://toplouie1.github.io/8-0-weather-app-project/)
 - [Pixel Painter](https://toplouie1.github.io/8-0-events-lab/)
-- [Youtube-clone](https://youtube-clonana.netlify.app/)
+

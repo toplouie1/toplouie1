@@ -4,7 +4,9 @@
 
 I am a Full Stack Developer ,
 I am very big on clean code.
+
 My goal for this year is to get my Software Developer skill Top notch . 
+
 I love pear programing  finding new Ideas and Implementing them.
 I am Currently In Pursuit .
 

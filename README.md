@@ -28,7 +28,7 @@ exceptional coder.
 - [Pixel Painter](https://toplouie1.github.io/8-0-events-lab/)
 
 
-[![toplouie1 GitHub stats](https://github-readme-stats.vercel.app/api?username=toplouie1)](https://github.com/toplouie1/github-readme-stats)
+[![toplouie1 GitHub stats](https://github-readme-stats.vercel.app/api?username=toplouie1)](https://github.com/toplouie1/github-readme-stats&theme=radical)
 
 
 

@@ -28,4 +28,4 @@ exceptional coder.
 - [Pixel Painter](https://toplouie1.github.io/8-0-events-lab/)
 
 
-<img src="https://www.codewars.com/users/toplouie1/badges/large"/>
+<img src="https://www.codewars.com/users/toplouie1/badges/small"/>

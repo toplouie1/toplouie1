@@ -27,3 +27,5 @@ exceptional coder.
 - [Weather](https://toplouie1.github.io/8-0-weather-app-project/)
 - [Pixel Painter](https://toplouie1.github.io/8-0-events-lab/)
 
+
+https://www.codewars.com/users/toplouie1/badges/large

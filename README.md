@@ -19,8 +19,12 @@ exceptional coder.
 
 - 🌱  I’m currently : Pursuit, which is an intensive 12 - month software engineering fellowship with a 8% acceptance rate. https://www.pursuit.org/
 
+#My Portfolio 
+- [Nima Portfolio](https://pedantic-montalcini-3d984f.netlify.app/)
+
 #My Projects
 
+- [Budget-App](https://practical-meninsky-218376.netlify.app/)
 - [Youtube-clone](https://youtube-clonana.netlify.app/)
 - [Calculator](https://nima-sherpa-calculator.netlify.app/)
 - [Weather](https://toplouie1.github.io/8-0-weather-app-project/)

@@ -19,7 +19,7 @@ exceptional coder.
 
 - 🌱  I’m currently : Pursuit, which is an intensive 12 - month software engineering fellowship with a 8% acceptance rate. https://www.pursuit.org/
 
-
+#My Portfolio ✌✌️
 - [My Portfolio](https://pedantic-montalcini-3d984f.netlify.app/)
 
 #My Projects

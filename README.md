@@ -28,7 +28,7 @@ exceptional coder.
 - [Youtube-clone](https://youtube-clonana.netlify.app/)
 - [Calculator](https://nima-sherpa-calculator.netlify.app/)
 
-<a href="https://www.codewars.com/users/toplouie1"><img src="https://www.codewars.com/users/toplouie1/badges/medium"/></a>
+<a href="https://www.codewars.com/users/toplouie1"><img src="https://www.codewars.com/users/toplouie1/badges/large"/></a>
 [![toplouie1 GitHub stats](https://github-readme-stats.vercel.app/api?username=toplouie1&show_icons=true&theme=dark)](https://github.com/toplouie1/github-readme-stats)
 
 

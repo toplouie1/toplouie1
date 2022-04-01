@@ -2,15 +2,13 @@
  
 #Full-Stack-Developer
 
-I am a Full Stack Developer ,
+I am a Full Stack Web Developer ,
 I am very big on clean code.
 
-My goal for this year is to get my Software Developer skill Top notch . 
-
-I love pear programing  finding new Ideas and Implementing them.
-
-learning through experience for becoming  an
-exceptional coder.
+Love learning new technology and building web Apps 
+I love pear programing finding new Ideas and Implementing them.
+always seeking to expand my knowledge on tech , Ability to learn and implement new technologies quickly.
+learning through experience for becoming an exceptional programmer.
 
 - 🔭  I’m currently working on personal Projects 🎶 🎶 🎶
 - 📫  reach me: https://www.linkedin.com/in/nima-sherpa-00b1a9210/ 
@@ -19,8 +17,8 @@ exceptional coder.
 
 - 🌱  I’m currently : Pursuit, which is an intensive 12 - month software engineering fellowship with a 8% acceptance rate. https://www.pursuit.org/
 
-<!-- #My Portfolio ✌✌️
-- [My Portfolio](https://pedantic-montalcini-3d984f.netlify.app/) -->
+#My Portfolio ✌✌️
+- [My Portfolio](https://pedantic-montalcini-3d984f.netlify.app/)
 
 #My Projects
 - [Watch-Store](https://musing-euler-08cdda.netlify.app/)

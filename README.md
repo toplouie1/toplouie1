@@ -3,8 +3,6 @@
 #Full-Stack-Developer
 
 I am a Full Stack Web Developer ,
-I am very big on clean code.
-
 Love learning new technology and building web Apps 
 I love pear programing finding new Ideas and Implementing them.
 always seeking to expand my knowledge on tech , Ability to learn and implement new technologies quickly.
@@ -14,15 +12,15 @@ learning through experience for becoming an exceptional programmer.
 - 📫  reach me: https://www.linkedin.com/in/nima-sherpa-00b1a9210/ 
 - 😁  Pronouns: He/Him 
 -  I work with 🖥 :  HTML/CSS, JavaScript, Node, Express, React, PostgreSQL, BootStrap, APIs, Git, Data Structures,
-
 - 🌱  I’m currently : Pursuit, which is an intensive 12 - month software engineering fellowship with a 8% acceptance rate. https://www.pursuit.org/
 
 #My Portfolio ✌✌️
 - [My Portfolio](https://pedantic-montalcini-3d984f.netlify.app/)
 
 #My Projects
+- [EDUK](https://eduk.netlify.app/)
 - [Watch-Store](https://musing-euler-08cdda.netlify.app/)
-- [Budget-App](https://practical-meninsky-218376.netlify.app/)
+<!-- - [Budget-App](https://practical-meninsky-218376.netlify.app/) -->
 - [Youtube-clone](https://youtube-clonana.netlify.app/)
 - [Calculator](https://nima-sherpa-calculator.netlify.app/)
 

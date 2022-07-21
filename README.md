@@ -18,7 +18,7 @@ learning through experience for becoming an exceptional programmer.
 - [My Portfolio](https://pedantic-montalcini-3d984f.netlify.app/)
 
 #My Projects
-- [EDUK](https://eduk.netlify.app/)
+- [EDUK](https://edukapp.netlify.app/)
 - [Watch-Store](https://musing-euler-08cdda.netlify.app/)
 - [Youtube-clone](https://youtube-clonana.netlify.app/)
 - [Calculator](https://nima-sherpa-calculator.netlify.app/)

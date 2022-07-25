@@ -2,9 +2,9 @@
  
 #Full-Stack-Developer
 
-I am a Full Stack Web Developer ,
+I am a Software enginner.
 Love learning new technology and building web Apps 
-I love pear programing finding new Ideas and Implementing them.
+I love working in team, finding new Ideas and Implementing them.
 always seeking to expand my knowledge on tech , Ability to learn and implement new technologies quickly.
 learning through experience for becoming an exceptional programmer.
 

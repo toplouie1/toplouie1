@@ -2,17 +2,17 @@
  
 #Full-Stack-Developer
 
-I am a Software enginner.
-Love learning new technology and building web Apps 
+I am a Full-Stack-Developer. 
+Love learning new technology and building web Application. 
 I love working in team, finding new Ideas and Implementing them.
-always seeking to expand my knowledge on tech , Ability to learn and implement new technologies quickly.
+Always seeking to expand my knowledge on tech , Ability to learn and implement new technologies quickly.
 learning through experience for becoming an exceptional programmer.
 
 - 🔭  I’m currently working on personal Projects 🎶 🎶 🎶
 - 📫  reach me: https://www.linkedin.com/in/nima-sherpa-00b1a9210/ 
 - 😁  Pronouns: He/Him 
 -  I work with 🖥 :  HTML/CSS, JavaScript, Node, Express, React, PostgreSQL, BootStrap, APIs, Git, Data Structures,
-- 🌱  I’m currently : Pursuit, which is an intensive 12 - month software engineering fellowship with a 8% acceptance rate. https://www.pursuit.org/
+- 🌱  I’m currently : Pursuit, which is an intensive 12 - month software engineering fellowship with a 8% acceptance rate.         https://www.pursuit.org/
 
 #My Portfolio ✌✌️
 - [My Portfolio](https://pedantic-montalcini-3d984f.netlify.app/)

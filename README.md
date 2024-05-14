@@ -5,8 +5,7 @@
 I am a Full-Stack-Developer. 
 Love learning new technology and building web Application. 
 I love working in team, finding new Ideas and Implementing them.
-Always seeking to expand my knowledge on tech , Ability to learn and implement new technologies quickly.
-learning through experience for becoming an exceptional programmer.
+Always seeking to expand my knowledge on tech .
 
 - 🔭  I’m currently working on personal Projects 🎶 🎶 🎶
 - 📫  reach me: https://www.linkedin.com/in/nima-sherpa-00b1a9210/ 

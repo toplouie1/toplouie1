@@ -1,4 +1,4 @@
- Hi there 👋 👋
+Hi there 👋 👋
  
 #Full-Stack-Developer
 
@@ -11,7 +11,7 @@ Currently, I'm fascinated by AI and focused on building AI-powered web apps and 
 - 🔭  I’m currently working on personal Projects 🎶 🎶 🎶
 - 📫  reach me: https://www.linkedin.com/in/nima-sherpa-00b1a9210/ 
 - 😁  Pronouns: He/Him 
--  I work with 🖥 :  HTML/CSS, JavaScript, Node, Express, React, PostgreSQL, BootStrap, APIs, Git, Data Structures,
+-  I work with 🖥 :  HTML/CSS, JavaScript, Python, Node, Express, React, PostgreSQL, BootStrap, APIs, Git, Data Structures,
 
 #My Portfolio ✌✌️
 - [My Portfolio](https://pedantic-montalcini-3d984f.netlify.app/)

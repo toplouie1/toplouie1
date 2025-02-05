@@ -8,7 +8,7 @@ At Peloton, I worked on integrating Commercetools into the system and developing
 significantly improving customer experience and engagement. I'm passionate about building scalable APIs, leveraging Agile methodologies, and delivering impactful software solutions.
 Currently, I'm fascinated by AI and focused on building AI-powered web apps and exploring other AI applications to drive innovation and enhance user experiences.
 
-- 🔭  I’m currently working on personal Projects 🎶 🎶 🎶
+- 🔭  I’m currently looking for a job / working on personal skills / upskilling 🎶 🎶 🎶
 - 📫  reach me: https://www.linkedin.com/in/nima-sherpa-00b1a9210/ 
 - 😁  Pronouns: He/Him 
 -  I work with 🖥 :  HTML/CSS, JavaScript, Python, Node, Express, React, PostgreSQL, BootStrap, APIs, Git, Data Structures,

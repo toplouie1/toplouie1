@@ -18,7 +18,7 @@ Currently, I'm fascinated by AI and focused on building AI-powered web apps and 
 
 #My Projects
 - [EDUK](https://edukapp.netlify.app/)
-- [Watch-Store](https://musing-euler-08cdda.netlify.app/)
+- [Novus](https://novus-news.netlify.app/)
 
 <a href="https://www.codewars.com/users/toplouie1"><img src="https://www.codewars.com/users/toplouie1/badges/large"/></a>
 
